@@ -60,7 +60,7 @@ $ streamlit run app.py
 | Show all students in Data Science class. | `SELECT * FROM STUDENT WHERE CLASS='Data Science';` |
 
 ## 📸 Screenshot
-![MasterQuery UI](https://via.placeholder.com/800x400.png?text=MasterQuery+App+UI)
+![MasterQuery UI](C:\Users\venka\OneDrive\Desktop\OOPs\QueryApp\WhatsApp Image 2025-03-24 at 21.35.47.jpeg)
 
 ## 🤝 Contributing
 Contributions are **welcome**! If you have ideas for improvement, feel free to **fork** the repo and submit a **pull request**.
