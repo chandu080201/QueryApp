@@ -25,10 +25,10 @@ MasterQuery App is an **AI-powered SQL automation tool** that seamlessly transla
 ## ⚡ Quick Setup & Installation
 ```bash
 # Clone the repository
-$ git clone https://github.com/your-repo/MasterQuery-App.git
+$ git clone https://github.com/chandu080201/QueryApp.git
 
 # Navigate to project directory
-$ cd MasterQuery-App
+$ cd QueryApp
 
 # Install dependencies
 $ pip install -r requirements.txt
