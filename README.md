@@ -1,5 +1,3 @@
-![MasterQuery App](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 # 🚀 MasterQuery App - Generative AI for SQL Automation
 
 ## 🌟 Overview
